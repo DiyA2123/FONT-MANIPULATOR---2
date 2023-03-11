@@ -1,0 +1,32 @@
+body{
+background-color: cadetblue;
+}
+
+.copyright-footer{
+position: fixed;
+bottom: 0;
+line-height: 4;
+background-color: ghostwhite;
+width: 100%;
+font-weight: bold;
+font-family: cursive;
+font-size:medium
+}
+
+.heading{
+    background-color: ghostwhite;
+    font-size: 33px;
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.note{
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+canvas{
+    border: 5px solid ghostwhite;
+    background-color: cadetblue;
+    box-shadow: 5px 5px 5px 5px gray;
+}
